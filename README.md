@@ -35,6 +35,12 @@ This will be updated each week with the activities for that week.
 7. [Create a virtual Python environment for a project in your IDE (10 mins)](activities/week1/1-7-create-virtual-environment.md)
 8. [Synchronise changes between the local and remote repository (5 mins)](activities/week1/1-8-synch-changes.md)
 
+# A level 1 heading
+
+## A level 2 heading
+
+Not sure if this is the practice project but putting this text here anyways
+
 ### Week 2 Data preparation using Python pandas
 [Week 2 instructions](activities/week2/2-0-instructions.md)
 1. [Create a package and module](activities/week2/2-01-python-structure)
